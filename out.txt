@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html> 
+<body> 
+   <h1>Primul header</h1> 
+   <em>text italic</em>
+   <h2> Header 2 </h2> 
+   <p>Alt paragraf cu text</p> 
+   <h3> Header 3 </h3> 
+   <strong>other bold text</strong>
+   <h4> Header 4 </h4> 
+   <strong>pepper</strong>
+   <p>asta e un paragraf</p> 
+   <p>Un alt paragraf care contine text</p> 
+   <h5> Header 5</h5> 
+   <p>Paragraf care contine descrierea documentului html</p> 
+</body> 
+</html> 
